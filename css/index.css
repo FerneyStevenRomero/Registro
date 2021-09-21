@@ -1,0 +1,34 @@
+body{
+    margin: 0 9% 0 5%;
+}
+.titles{
+    display: flex;
+    flex-direction: row;
+}
+.title-id{
+    width: 10%;
+}
+.title-name{
+    width: 65%;
+}
+.btn{
+    margin: 2% 0 2% 0;
+    background-color: rgb(65, 65, 241);
+    color: white;
+    border-radius: 5px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.container-id{
+    width: 10%;
+}
+.container-body{
+    width: 65%;
+}
+.cant{
+    border-radius: 3px ;
+}
+
+
